@@ -9,9 +9,9 @@ More About Me -
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&layout=compact&theme=solarized-light"></p>
 
-[![Polly333's github stats](https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true&theme=solarized-light"></p>
 
 <!--
 **Polly333/Polly333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
