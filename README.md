@@ -3,7 +3,6 @@ Hello there!
 
 I'm Poulamee & I ❤️ making projects.
 
-- 🌱 I’m currently learning Android Development
 
 
 More About Me - 
