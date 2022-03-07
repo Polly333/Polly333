@@ -1,20 +1,46 @@
 
-Hello there!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-I'm Poulamee & I ❤️ making projects.
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World, I am Poulamee :)
 
 
 
-More About Me - 
+More About Me on - 
 
 <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://pollypal.medium.com/">Medium </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a> | <a href="https://www.interviewbit.com/profile/poulamee-pal">InterviewBit</a></p>
 
+- 🌱 I’m currently learning JS ,Bootstrap & Git.
 
 <!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&layout=compact&theme=solarized-light"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true&theme=solarized-light"></p>
+
+
+## Languages and Tools:
+<div>
+   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg">
+  
+   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/android.svg">
+  
+   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/intellij.svg">&nbsp;
+   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
+   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/android-studio.svg">
+  
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+</div>
+
+
 
 <!--
 **Polly333/Polly333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
