@@ -7,9 +7,9 @@
 
 * ## More About Me:
 
-<p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://pollypal.medium.com/">Medium </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a> | <a href="https://www.interviewbit.com/profile/poulamee-pal">InterviewBit</a></p>
+    <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://pollypal.medium.com/">Medium </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a></p>
 
- 🌱 I’m currently exploring Web Development
+    🌱 I’m currently exploring Web Development
 
 <!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
@@ -19,7 +19,7 @@
 
 
 * ## Languages and Tools:
-<div>
+  <div>
    <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
    <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
