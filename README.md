@@ -1,15 +1,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> Hello World, I am Poulamee :)
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10%"> Hello World, I am Poulamee :)
+
+<img src="https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png" height="100" width="1000">
 
 
 
-More About Me on - 
+* ## More About Me:
 
 <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://pollypal.medium.com/">Medium </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a> | <a href="https://www.interviewbit.com/profile/poulamee-pal">InterviewBit</a></p>
 
-- 🌱 I’m currently learning JS ,Bootstrap & Git.
+ 🌱 I’m currently exploring Web Development
 
 <!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
@@ -18,7 +20,7 @@ More About Me on -
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true&theme=solarized-light"></p>
 
 
-## Languages and Tools:
+* ## Languages and Tools:
 <div>
    <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
    <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
@@ -28,7 +30,7 @@ More About Me on -
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png">&nbsp;
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg">&nbsp;
-   <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg">
+   <img width=50px src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">
   
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/android.svg">
   
@@ -39,6 +41,16 @@ More About Me on -
   
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
