@@ -3,8 +3,6 @@
 
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10%"> Hello World, I am Poulamee :)
 
-<img src="https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png" height="100" width="1000">
-
 
 
 * ## More About Me:
@@ -41,8 +39,6 @@
   
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
 </div>
-
-
 
 
 
