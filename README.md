@@ -13,13 +13,13 @@
 
 <!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&langs_count=10"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&langs_count=5"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true"></p>
 
 
 
-* ## Languages and Tools:
+* ## Languages and Tools used so far:
   <div>
    <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
    <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
@@ -29,8 +29,8 @@
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png">&nbsp;
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg">&nbsp;
-   <img width=50px src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">
-  
+  <!-- <img width=50px src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png"> -->
+   <img width=50px src="https://streamlit.io/images/brand/streamlit-mark-color.svg">
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/android.svg">
   
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
