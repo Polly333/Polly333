@@ -7,7 +7,7 @@
 
 * ## More About Me:
 
-    <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://pollypal.medium.com/">Medium </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank| <a href="notion se/">Resume</a></a></p>  
+    <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank
 
     🌱 I’m currently exploring Web Development
 
