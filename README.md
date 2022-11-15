@@ -7,7 +7,7 @@
 
 * ## More About Me:
 
-    <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank
+    <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a> | <a href="https://auth.geeksforgeeks.org/user/polly/">GeeksforGeeks</a> | <a href="https://leetcode.com/polly3388/">Leetcode</a>
 
     🌱 I’m currently exploring Web Development
 
