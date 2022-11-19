@@ -9,7 +9,7 @@
 
     <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a> | <a href="https://auth.geeksforgeeks.org/user/polly/">GeeksforGeeks</a> | <a href="https://leetcode.com/polly3388/">Leetcode</a>
 
-    🌱 I’m currently exploring Web Development
+    🌱 I'm interested in Web Development(Django), ML/AI and Cloud Computing(AWS).
 
 <!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
