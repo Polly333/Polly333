@@ -31,6 +31,8 @@
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg">&nbsp;
    <img width=50px src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">
    <img width=50px src="https://streamlit.io/images/brand/streamlit-mark-color.svg">
+    
+   <img width=50px src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
    <img width=50px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/android.svg">
   
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
