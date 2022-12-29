@@ -13,9 +13,9 @@
 
 <!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
-<!--
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&langs_count=6"></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&langs_count=6"></p>
+<!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true"></p> 
 -->
 
