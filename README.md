@@ -1,23 +1,47 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=20&width=400&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World, I am Poulamee :)
+#### Hello World, I'm Poulamee 👋
 
 
+##### More About Me:
 
-* ## More About Me:
+<a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">
+  <img align="left" alt="Poulamee Pal LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/profile/Poulamee_Pal">
+  <img align="left" alt="Poulamee Pal Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://leetcode.com/polly3388/">
+  <img align="left" alt="Poulamee Pal Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/polly">
+  <img align="left" alt="Poulamee Pal GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" />
+</a>
 
-    <p><a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">LinkedIn </a> | <a href="https://www.hackerrank.com/Poulamee_Pal">HackerRank </a> | <a href="https://auth.geeksforgeeks.org/user/polly/">GeeksforGeeks</a> | <a href="https://leetcode.com/polly3388/">Leetcode</a>
+<br>
+<br>
 
-<!--    🌱 I'm interested in Web Development(Django/Flask), ML/AI and Cloud Computing(AWS). -->
+    
+- ⭐ I'm interested in Web Development, ML/AI and CyberSecurity.<br>
+- 🌱 Currently learning Web Development(Java Backend)!
+- 😄 Pronouns: She/Her.
+- 🤔 I’m looking for help with project ideas...
 
-<!--*NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
+  Will be happy to connect :)
 
-<!-- 
+  
+
+<!-- *NOTE: Top languages is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* 
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly333&langs_count=6"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true"></p> 
--->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Polly333&show_icons=true"></p>  -->
+
+
+
+
 
 
 <!--
