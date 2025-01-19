@@ -26,7 +26,7 @@
 - ⭐ I'm interested in Web Development, ML/AI and CyberSecurity.<br>
 - 🌱 Currently learning Web Development(Java Backend)!
 - 😄 Pronouns: She/Her.
-- 🤔 I’m looking for help with project ideas...
+- 🤔 I’m trying to create simple solutions to complex problems.
 
   Will be happy to connect :)
 
