@@ -9,15 +9,15 @@
 <a href="https://www.linkedin.com/in/poulamee-pal-0b31a0182/">
   <img align="left" alt="Poulamee Pal LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/profile/Poulamee_Pal">
+<!--<a href="https://www.hackerrank.com/profile/Poulamee_Pal">
   <img align="left" alt="Poulamee Pal Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+</a>-->
 <a href="https://leetcode.com/polly3388/">
   <img align="left" alt="Poulamee Pal Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/polly">
+<!--<a href="https://auth.geeksforgeeks.org/user/polly">
   <img align="left" alt="Poulamee Pal GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" />
-</a>
+</a>-->
 
 <br>
 <br>
